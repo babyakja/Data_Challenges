@@ -7,6 +7,7 @@ _4.10.2020_
 ### Let's say we want to build a model to predict booking prices.
 
 *1. Explain the difference between a linear regression versus a random forest regression.*
+
 *2. Which one would likely perform better?*
 
 > Response

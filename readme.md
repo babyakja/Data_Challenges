@@ -1,12 +1,12 @@
-Collection of Data Challenge Questions and my responses
+# Collection of Data Challenge Questions and my responses
 
-##Data Questions
+## Data Questions
 
 _4.10.2020_
 
-Let's say we want to build a model to predict booking prices.
-1. Explain the difference between a linear regression versus a random forest regression.
-2. Which one would likely perform better?
+### Let's say we want to build a model to predict booking prices.
+*1. Explain the difference between a linear regression versus a random forest regression.*
+*2. Which one would likely perform better?*
 
 > Response
 1. Linear Regession fits a line (mX +b) to the by minimizing error between the residuals and actual value, in this case booking price

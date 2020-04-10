@@ -1,6 +1,6 @@
 Collection of Data Challenge Questions and my responses
 
-##Data Questions##
+##Data Questions
 
 _4.10.2020_
 
